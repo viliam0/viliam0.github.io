@@ -1,4 +1,4 @@
-Malware analysis portfolio dsad as 
+Malware analysis portfolio
 
 
 
