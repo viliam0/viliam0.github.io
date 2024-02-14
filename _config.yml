@@ -190,7 +190,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: ""
+excerpt_separator: "\n\n"
+exclude: ["/_pages/404.md"]
 incremental: false
 
 
