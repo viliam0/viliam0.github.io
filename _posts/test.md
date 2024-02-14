@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sady"
-categories: #- Malware Analysis
+categories: -#malware-analysis
 author_profile: true
 ---
 
