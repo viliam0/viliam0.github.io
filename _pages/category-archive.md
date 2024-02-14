@@ -1,8 +1,6 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /categories/#malware-analysis/
+permalink: /categories/
 author_profile: true
 ---
-
-sadsadasda
