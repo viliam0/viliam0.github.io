@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: posts
 title: "sady"
-categories: #malware-analysis
 author_profile: true
 ---
 
