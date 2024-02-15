@@ -1,15 +1,11 @@
 ---
-title: "Expolring API resolving"
+title: "Cobal Strike"
 classes: wide
 header:
-  teaser: https://www.researchgate.net/publication/305755349/figure/fig4/AS:390261860519941@1470057087660/The-structure-of-the-Import-Address-Table-IAT.png
+  teaser: https://miro.medium.com/v2/resize:fit:720/format:webp/1*Wkcm0K0-7-GH0t69MmTAHw.jpeg
 ribbon: DodgerBlue
-description: "Exploring HOW IAT resolving is done "
+description: "asdsadas"
 categories:
-  #- Malware Analysis
+  - 
 toc: true
 ---
-
-sadasdas
-
-asdasd
