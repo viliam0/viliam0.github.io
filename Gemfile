@@ -7,3 +7,5 @@ gem 'jekyll-include-cache'
 gem 'minimal-mistakes-jekyll'
 
 gem 'activesupport', '~> 7.1', '>= 7.1.2'
+
+gem 'jekkyl-paginate'
