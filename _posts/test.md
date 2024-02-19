@@ -1,12 +1,11 @@
 ---
+layout: default
 title: "Cobalt Strike"
 classes: wide
 ribbon: DodgerBlue
 description: "Cobalt Strike Shellcode analysis"
-categories:
-  #- Malware Analysis
-toc: true
+author_profile: true
 ---
 
 
-dsfsdfsdf
+# Cobalt Strike Shellcode analysis
