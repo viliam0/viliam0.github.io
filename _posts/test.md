@@ -2,7 +2,6 @@
 layout: post
 title: "Cobal Strike"
 classes: wide
-date: 2024-02-19  # Customize the date if needed
 ribbon: DodgerBlue
 description: "asdsadas"
 categories:
