@@ -8,4 +8,4 @@ gem 'minimal-mistakes-jekyll'
 
 gem 'activesupport', '~> 7.1', '>= 7.1.2'
 
-gem 'jekkyl-paginate'
+gem "jekyll-paginate", "~> 1.1.0"
