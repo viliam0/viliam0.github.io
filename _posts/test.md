@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cobalt Strike"
 classes: wide
 ribbon: DodgerBlue
