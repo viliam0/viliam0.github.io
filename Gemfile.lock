@@ -276,6 +276,7 @@ DEPENDENCIES
   activesupport (~> 7.1, >= 7.1.2)
   github-pages
   jekyll-include-cache
+  jekyll-paginate (~> 1.1.0)
   minimal-mistakes-jekyll
 
 BUNDLED WITH
