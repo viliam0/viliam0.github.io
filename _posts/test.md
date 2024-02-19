@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Cobal Strike"
+title: "Cobalt Strike"
 classes: wide
 ribbon: DodgerBlue
-description: "asdsadas"
+description: "Cobalt Strike Shellcode analysis"
 categories:
   #- Malware Analysis
 toc: true
 ---
+
+
 dsfsdfsdf
